@@ -1,0 +1,15 @@
+/* Стили для div */
+#myDiv {
+    width: 150px;
+    height: 150px;
+    background-color: lightgray;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 150px;
+}
+
+/* Стили для кнопки */
+button {
+    margin-top: 20px;
+    padding: 5px 10px;
+}
